@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジャージ",
+  "base_artist": "サバシスター",
+  "createdAt": "2026-03-06T07:47:03.711364Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジャージ",
+      "artist": "サバシスター",
+      "has_synced": false,
+      "path": "select/pl_01_ジャージ_サバシスター.txt"
+    }
+  ]
+}
